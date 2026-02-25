@@ -1,4 +1,4 @@
 # aula-git 
-*comacar*
+*comecar*
 **vamos comecar**
 
